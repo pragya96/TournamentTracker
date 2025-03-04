@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrackerUI
+namespace TrackerUI2
 {
     public partial class TournamentViewerForm: Form
     {
         public TournamentViewerForm()
         {
             InitializeComponent();
-        }
-
-        private void headerLabel_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
